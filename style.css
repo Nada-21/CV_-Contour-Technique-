@@ -1,0 +1,21 @@
+.css-hxt7ib {
+    padding-top: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+::-webkit-scrollbar {
+    background: transparent;
+    border-radius: 100px;
+    height: 6px;
+    width: 6px;
+    padding-top: 1rem;
+}
+
+.css-18e3th9 {
+    flex: 1 1 0%;
+    width: 100%;
+    padding: 0cm 0.5cm 0.5cm 0.5cm;
+    min-width: auto;
+    max-width: initial;
+}
